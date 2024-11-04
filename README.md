@@ -1,6 +1,9 @@
 # mobile devp. resources
-kprogresshud - 
 
+## dependencies
+1. kprogresshud - 
+2. Rooms
+3. Courtines
 ## Mac
 **1. Learn the Basics of Programming**
 - Swift: Apple's primary programming language for iOS and macOS development.
