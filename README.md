@@ -1,7 +1,8 @@
 # 📱Mobile devp. resources
-1. working with Fragments
-2. Shared Preference
-3. 
+1. how to change icon of app
+2. working with Fragments
+3. Shared Preference
+4. 
 
 
 ## dependencies
