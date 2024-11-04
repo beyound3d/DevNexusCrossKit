@@ -1,4 +1,8 @@
-# mobile devp. resources
+# 📱Mobile devp. resources
+1. working with Fragments
+2. Shared Preference
+3. 
+
 
 ## dependencies
 1. kprogresshud - 
