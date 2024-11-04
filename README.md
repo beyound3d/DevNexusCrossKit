@@ -3,6 +3,7 @@
 2. working with Fragments
 3. Shared Preference
 4. how to create library
+5. how to make api key and store it || Credentials 
 
 
 ## dependencies
