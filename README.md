@@ -55,3 +55,8 @@
 - Resources
   
 Apple Developer Website: Official resources and guidelines.
+
+## Best Practices 
+```
+is it possible to configure shortcut for rearrange tag attributes in android studio
+```
