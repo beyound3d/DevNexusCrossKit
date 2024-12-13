@@ -1,4 +1,5 @@
 # 📱Mobile devp. resources
+
 1. how to change icon of app
 2. working with Fragments
 3. Shared Preference
@@ -11,14 +12,13 @@
 
 
 
-![line wavey](https://github.com/user-attachments/assets/763a5238-3e75-46a3-856b-e529d0023698)   **Dependencies**
-
+## **Dependencies**🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊
 
 1. kprogresshud - depricated, buildConfigField= not working
 2. Rooms
 3. Courtines
    
-## Mac
+## Mac🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄
 **1. Learn the Basics of Programming**
 - Swift: Apple's primary programming language for iOS and macOS development.
 - Objective-C: An older language still used in some legacy apps.
@@ -67,7 +67,7 @@ Apple Developer Website: Official resources and guidelines.
 is it possible to configure shortcut for rearrange tag attributes in android studio
 ```
 
-# Approches
+# Approches🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕
 ##  **1. Frontent**
    
  In app development, different types of pages or screens serve various purposes, depending on the app's functionality, user flow, and design goals. Here are the common types of pages in app development:
