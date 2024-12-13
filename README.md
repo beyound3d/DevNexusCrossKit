@@ -12,13 +12,13 @@
 
 
 
-## **Dependencies**  🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊
+## **Dependencies**  🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊
 
 1. kprogresshud - depricated, buildConfigField= not working
 2. Rooms
 3. Courtines
    
-## Mac  🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄
+## Mac  🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄🚄
 **1. Learn the Basics of Programming**
 - Swift: Apple's primary programming language for iOS and macOS development.
 - Objective-C: An older language still used in some legacy apps.
