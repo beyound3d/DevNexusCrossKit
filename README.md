@@ -10,8 +10,9 @@
 
 
 
-## dependencies
-<img align="right" src="https://github.com/beyound3d/DevNexusCrossKit/blob/master/line%20wavey.png" height="30sp"/>
+
+![line wavey](https://github.com/user-attachments/assets/763a5238-3e75-46a3-856b-e529d0023698)   **Dependencies**
+
 
 1. kprogresshud - depricated, buildConfigField= not working
 2. Rooms
