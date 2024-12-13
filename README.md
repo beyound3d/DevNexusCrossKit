@@ -64,7 +64,8 @@ is it possible to configure shortcut for rearrange tag attributes in android stu
 ```
 
 # Approches
-1. Frontent
+**1. Frontent**
+   
  In app development, different types of pages or screens serve various purposes, depending on the app's functionality, user flow, and design goals. Here are the common types of pages in app development:
 
 ---
