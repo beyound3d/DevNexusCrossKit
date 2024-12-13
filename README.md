@@ -8,8 +8,10 @@
 ![Screenshot 2024-11-19 122504](https://github.com/user-attachments/assets/78caa851-22ce-4d7c-b93a-3f8bdc3b4af2)
 
 
-<img align="right" src="https://github.com/beyound3d/DevNexusCrossKit/blob/master/line%20wavey.png"/>
+
+
 ## dependencies
+<img align="right" src="https://github.com/beyound3d/DevNexusCrossKit/blob/master/line%20wavey.png" height="30dp"/>
 
 1. kprogresshud - depricated, buildConfigField= not working
 2. Rooms
