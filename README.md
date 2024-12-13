@@ -10,6 +10,7 @@
 
 
 ## dependencies
+![line wavey](https://github.com/user-attachments/assets/1c822348-95f6-4d97-9857-8289f53da285)
 1. kprogresshud - depricated, buildConfigField= not working
 2. Rooms
 3. Courtines
