@@ -67,8 +67,8 @@ Apple Developer Website: Official resources and guidelines.
 is it possible to configure shortcut for rearrange tag attributes in android studio
 ```
 
-# Approches🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕🚕
-##  **1. Frontent**
+# Approches------------------------------------------------------------------------------ 
+##  **1. Frontent**                                                      ----------------
    
  In app development, different types of pages or screens serve various purposes, depending on the app's functionality, user flow, and design goals. Here are the common types of pages in app development:
 
@@ -239,8 +239,7 @@ is it possible to configure shortcut for rearrange tag attributes in android stu
 ---
 By combining these types of pages thoughtfully, you can create an app that is functional, user-friendly, and aligned with your goals.
 
-## Backend
-
+##  **1. Backend**                                                      ----------------
  Android development typically includes a mix of programming fundamentals, backend frameworks, databases, APIs, and cloud services. Here's a structured syllabus:
 
 ---
